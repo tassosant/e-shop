@@ -1,0 +1,7 @@
+Core features:
+1. Product Catalog (Users should be able to view a list of products and filter/sort them
+2. User Authentication (keycloak), can view order history
+3. Shopping cart (edit quantities, add items)
+4. Checkout (payment gateway)
+5. Order management (admins should be able to view and manage orders)
+
